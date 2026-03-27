@@ -1,2 +1,2 @@
 # learn-cortex-cli-codescan
-teste
+teste2
