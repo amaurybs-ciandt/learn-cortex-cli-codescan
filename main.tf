@@ -4,7 +4,7 @@ resource "aws_security_group" "allow_all" {
   name        = "allow_all_traffic"
   description = "Extremely insecure SG"
 
-  # FALHA 4: Ingress escancarado
+  # FALHA 4: Ingress escancarados
   ingress {
     from_port   = 0
     to_port     = 0
