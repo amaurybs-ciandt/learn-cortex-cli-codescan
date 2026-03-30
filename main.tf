@@ -1,4 +1,4 @@
-# main.tf - INSECURE TERRAFORM FOR TESTING PURPOSES
+# main.tf - INSECURE TERRAFORM FOR TESTING PURPOSE.
 
 resource "aws_security_group" "allow_all" {
   name        = "allow_all_traffic"
